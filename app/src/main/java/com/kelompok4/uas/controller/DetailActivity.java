@@ -1,4 +1,4 @@
-package com.kelompok4.movie.controller;
+package com.kelompok4.uas.controller;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,7 +13,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.kelompok4.apigit.R;
+import com.kelompok4.uas.R;
 
 public class DetailActivity extends AppCompatActivity {
     TextView Link, Username;

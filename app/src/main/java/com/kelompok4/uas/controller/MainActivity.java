@@ -1,4 +1,4 @@
-package com.kelompok4.movie.controller;
+package com.kelompok4.uas.controller;
 
 import android.app.ProgressDialog;
 import android.os.Bundle;
@@ -15,12 +15,12 @@ import android.widget.SearchView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.kelompok4.movie.ItemAdapter;
-import com.kelompok4.movie.R;
-import com.kelompok4.movie.api.Client;
-import com.kelompok4.movie.api.Service;
-import com.kelompok4.movie.model.Item;
-import com.kelompok4.movie.model.ItemResponse;
+import com.kelompok4.uas.ItemAdapter;
+import com.kelompok4.uas.R;
+import com.kelompok4.uas.api.Client;
+import com.kelompok4.uas.api.Service;
+import com.kelompok4.uas.model.Item;
+import com.kelompok4.uas.model.ItemResponse;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.kelompok4.movie;
+package com.kelompok4.uas;
 
 import org.junit.Test;
 

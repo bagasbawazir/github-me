@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kelompok4.movie">
+    package="com.kelompok4.uas">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -17,14 +17,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.kelompok4.apigit.controller.MainActivity">
+        <activity android:name="com.kelompok4.uas.controller.MainActivity">
 
         </activity>
-        <activity android:name="com.kelompok4.apigit.controller.DetailActivity"
-            android:parentActivityName="com.kelompok4.apigit.controller.MainActivity">
+        <activity android:name="com.kelompok4.uas.controller.DetailActivity"
+            android:parentActivityName="com.kelompok4.uas.controller.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.kelompok4.apigit.controller.MainActivity" />
+                android:value="com.kelompok4.uas.controller.MainActivity" />
         </activity>
     </application>
 

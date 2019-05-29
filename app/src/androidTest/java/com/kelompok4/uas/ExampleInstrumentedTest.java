@@ -1,4 +1,4 @@
-package com.kelompok4.movie;
+package com.kelompok4.uas;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

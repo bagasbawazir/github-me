@@ -1,6 +1,6 @@
-package com.kelompok4.movie.api;
+package com.kelompok4.uas.api;
 
-import com.kelompok4.apigit.model.ItemResponse;
+import com.kelompok4.uas.model.ItemResponse;
 
 
 import retrofit2.Call;

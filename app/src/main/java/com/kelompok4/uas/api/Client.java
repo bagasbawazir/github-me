@@ -1,4 +1,4 @@
-package com.kelompok4.movie.api;
+package com.kelompok4.uas.api;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
